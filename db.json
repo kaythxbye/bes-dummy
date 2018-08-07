@@ -1,0 +1,17 @@
+{
+	"voucher": [
+		{
+			"id": 1020304050,
+			"email": "",
+			"address": "",
+			"amount_gbp": 100,
+			"amount_btc": 0.02
+		}
+	],
+	"confirmTransaction": [
+		{
+			"id": 122,
+			"voucher_id": 1020304049
+		}
+	]
+}
